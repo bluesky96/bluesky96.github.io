@@ -26074,6 +26074,14 @@ module.exports = store;
 
 var stateDefault = {
     songList: [{
+        "url": "https://api.soundcloud.com/tracks/310525939/stream?client_id=ec8f5272bde9a225c71692a876603706",
+        "cover": "https://i1.sndcdn.com/artworks-000210585337-oyp59i-large.jpg",
+        "duration": 7115298,
+        "username": "Tehatnove1",
+        "artist": {
+            "song": "Nhạc Sóng Não Học Tập"
+        }
+    }, {
         "url": "https://api.soundcloud.com/tracks/163660355/stream?client_id=ec8f5272bde9a225c71692a876603706",
         "cover": "https://i1.sndcdn.com/artworks-000088410687-bwbmi3-large.jpg",
         "duration": 256259,
@@ -26089,6 +26097,22 @@ var stateDefault = {
         "artist": {
             "song": "Yiruma - River flows in you"
         }
+    }, {
+        "url": "https://api.soundcloud.com/tracks/200300865/stream?client_id=ec8f5272bde9a225c71692a876603706",
+        "cover": null,
+        "duration": 6240871,
+        "username": "YÃªu Máº¹",
+        "artist": {
+            "song": "The Best Piano Cover Of AnCoong "
+        }
+    }, {
+        "url": "https://api.soundcloud.com/tracks/96371465/stream?client_id=ec8f5272bde9a225c71692a876603706",
+        "cover": null,
+        "duration": 182742,
+        "username": "A TÄ©nh (é˜¿é–)",
+        "artist": {
+            "song": "Túy Hồng Nhan - Lưu Y Đóa"
+        }
     }],
     rainList: [{
         url: 'https://rainrelax.cf/raw/0.m4a'
@@ -26096,6 +26120,16 @@ var stateDefault = {
         url: 'https://rainrelax.cf/raw/r1.m4a'
     }, {
         url: 'https://rainrelax.cf/raw/2.m4a'
+    }, {
+        url: 'https://rainrelax.cf/raw/3.m4a'
+    }, {
+        url: 'https://rainrelax.cf/raw/4.m4a'
+    }, {
+        url: 'https://rainrelax.cf/raw/5.m4a'
+    }, {
+        url: 'https://rainrelax.cf/raw/6.m4a'
+    }, {
+        url: 'https://rainrelax.cf/raw/7.m4a'
     }],
     volumeRain: 1,
     volumeMusic: 1,
